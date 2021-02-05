@@ -4,7 +4,7 @@ Void Development © All right reserved.
 ### Setup
 
 - First it meets Discord.js, mongoose, fs, node-fetch modules.
-- Then fill fill in configs.json file.
+- Then fill in configs.json file.
 
 ### Information
 
